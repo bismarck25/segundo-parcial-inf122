@@ -1,0 +1,31 @@
+.boton{
+    display: flex;
+    width: 94px;
+    padding: 10px 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    align-self: stretch;
+    border-radius: 0px 10px 10px 0px;
+    background: #1C9675;
+    color: #F6F7F9;
+    font-family: Overpass;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+title{
+    color: white;
+    background-color: white;
+  }
+.input{
+    border-radius: 10px 0px 0px 10px;
+    background: #F6F7F9;
+    display: flex;
+    width: 587px;
+    padding: 16px 20px;
+    align-items: flex-start;
+    gap: 10px;
+    
+}
